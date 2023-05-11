@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on 50 Javascript Projects
 - 🌱 I’m currently learning Javascript/React
 
-Link to [Trip it Easy](https://tripiteasy.herokuapp.com/)
+Projects: [Trip it Easy](https://tripiteasy.herokuapp.com/)
 
 - 📫 How to reach me:
- Link to [LinkedIn](https://www.linkedin.com/in/mo-ar/)
- Link to [Email](791600ali@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mo-ar/)
+[Email](791600ali@gmail.com)
 
 <!--
 **ALLEE9120/ALLEE9120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
