@@ -1,4 +1,14 @@
-### Hi there 👋
+Hello, I'm [Muhammad Ali] 👋
+
+I'm a web developer with a passion for building beautiful, functional, and responsive websites. I love working with HTML, CSS, and JavaScript to create web pages that look great and provide an exceptional user experience.
+
+Skills
+- HTML
+-  CSS
+- JavaScript
+- Bootstrap
+- jQuery
+- Git
 
 - 🔭 I’m currently working on 50 Javascript Projects
 - 🌱 I’m currently learning Javascript/React
@@ -6,22 +16,6 @@
 
 Projects: [Trip it Easy](https://tripiteasy.herokuapp.com/)
 
-- 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/mo-ar/),
-[Email](791600ali@gmail.com)
-
+- 📫 Contact
+Feel free to reach out to me at 791600ali@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mo-ar/). I'm always open to new opportunities and collaborations!
 Thank you for visiting!
-<!--
-**ALLEE9120/ALLEE9120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
