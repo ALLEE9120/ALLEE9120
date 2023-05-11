@@ -3,8 +3,8 @@ Hello, I'm Muhammad Ali 👋
 I'm a web developer with a passion for building beautiful, functional, and responsive websites. I love working with HTML, CSS, and JavaScript to create web pages that look great and provide an exceptional user experience.
 
 Skills
-- HTML
--  CSS
+- Ruby on Rails
+- HTML/CSS
 - JavaScript
 - Bootstrap
 - jQuery
