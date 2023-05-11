@@ -7,7 +7,7 @@ I'm a web developer with a passion for building beautiful, functional, and respo
 
 <h2>Projects</h2>
 
-[Trip it Easy](https://tripiteasy.herokuapp.com/)
+- 📍 [Trip it Easy](https://tripiteasy.herokuapp.com/)
 
 <h2>Contact</h2>
 
