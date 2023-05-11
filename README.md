@@ -16,6 +16,6 @@ Skills
 
 Projects: [Trip it Easy](https://tripiteasy.herokuapp.com/)
 
-- 📫 Contact
+<h1>Contact</h1>
 Feel free to reach out to me at 791600ali@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mo-ar/). I'm always open to new opportunities and collaborations!
 Thank you for visiting!
