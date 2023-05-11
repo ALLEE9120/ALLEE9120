@@ -1,14 +1,6 @@
-Hello, I'm Muhammad Ali 👋
+<h1>Hello, I'm Muhammad Ali 👋</h1>
 
 I'm a web developer with a passion for building beautiful, functional, and responsive websites. I love working with HTML, CSS, and JavaScript to create web pages that look great and provide an exceptional user experience.
-
-Skills
-- Ruby on Rails
-- HTML/CSS
-- JavaScript
-- Bootstrap
-- jQuery
-- Git
 
 - 🔭 I’m currently working on 50 Javascript Projects
 - 🌱 I’m currently learning Javascript/React
