@@ -3,10 +3,11 @@
 - 🔭 I’m currently working on 50 Javascript Projects
 - 🌱 I’m currently learning Javascript/React
 
+
 Projects: [Trip it Easy](https://tripiteasy.herokuapp.com/)
 
 - 📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/mo-ar/)
+[LinkedIn](https://www.linkedin.com/in/mo-ar/),
 [Email](791600ali@gmail.com)
 
 <!--
