@@ -10,6 +10,7 @@ Projects: [Trip it Easy](https://tripiteasy.herokuapp.com/)
 [LinkedIn](https://www.linkedin.com/in/mo-ar/),
 [Email](791600ali@gmail.com)
 
+Thank you for visiting!
 <!--
 **ALLEE9120/ALLEE9120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
