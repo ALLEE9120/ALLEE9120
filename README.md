@@ -6,9 +6,10 @@ Web Developer
 
 I'm a web developer with a passion for building beautiful, functional, and responsive websites. I love working with HTML, CSS, and JavaScript to create web pages that look great and provide an exceptional user experience.
 
+* 🖥️  See my portfolio at [My Portfolio](http://mo-ar.me/)
 * ✉️  You can contact me at [791600ali@gmail.com](mailto:791600ali@gmail.com)
 * 🚀  I'm currently working on [My Developer Folio](http://github.com/ALLEE9120/Dev-Portfolio)
-* 🧠  I'm learning React
+* 🧠  I'm learning Javascipt/React
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
