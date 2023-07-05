@@ -8,7 +8,7 @@ I'm a web developer with a passion for building beautiful, functional, and respo
 
 * ✉️  You can contact me at [791600ali@gmail.com](mailto:791600ali@gmail.com)
 * 🚀  I'm currently working on [My Developer Folio](http://github.com/ALLEE9120/Dev-Portfolio)
-* 🧠  I'm learning Javascipt/React
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
