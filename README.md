@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Ali
 ====================================================================================================================================
 
-Web Developer
+Software Engineer
 -------------
 
 I'm a web developer with a passion for building beautiful, functional, and responsive websites. I love working with HTML, CSS, and JavaScript to create web pages that look great and provide an exceptional user experience.
